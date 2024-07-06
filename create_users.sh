@@ -72,4 +72,3 @@ done < "$USER_FILE"
 
 log_action "User creation script completed."
 
-
